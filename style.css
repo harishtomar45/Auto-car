@@ -422,6 +422,7 @@ padding-block: 20px;
     .nav button{
         width: 150px;
         font-size: 10px;
+        /* margin-left: 5px; */
     }
     .car{
         flex-direction: column;
@@ -449,8 +450,8 @@ padding-block: 20px;
         height:260px;
         position: absolute;
         /* z-index: 1; */
-         left: 2.5rem;
-      
+         left: 2rem;
+      /* display: none; */
     }
     .car-2{
         flex-direction: column;
@@ -557,7 +558,7 @@ margin-block: 20px;
 
 .tranding-btn{
     display: flex;
-    width: 150px;
+    width: 130px;
 }
 
 }
